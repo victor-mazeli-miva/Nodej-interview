@@ -78,11 +78,3 @@ function twoSum(nums, target) {
     // your code here
 }
 ```
-
-## Follow-up Questions
-
-1.  What's the brute-force solution?
-2.  What's its time complexity?
-3.  Can you solve it in O(n)?
-4.  Why use a `Map` instead of nested loops?
-5.  How would your solution behave if there were multiple valid pairs?
